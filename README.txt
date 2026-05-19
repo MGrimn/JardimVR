@@ -1,6 +1,6 @@
 ================================================================
   PROJETO: Meu Primeiro Ambiente VR
-  Disciplina: Web 3 / Meta SDK - Atividade 2
+  Disciplina: Web 3 / Meta SDK - Atividade 1
   Data: 2026
 ================================================================
 
